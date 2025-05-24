@@ -11,7 +11,3 @@ Proyek ini merupakan studi kasus dari proses perancangan desain grafis untuk web
 ## Fitur
 - Tampilan responsif untuk kartu promosi
 - Struktur yang mudah diintegrasikan ke framework seperti React, Vue, atau lainnya
-
-## Cara Menjalankan
-1. Clone repositori:
-
